@@ -1,0 +1,9 @@
+html {background-color: rgb()}
+body {
+  font-family: Tahoma;
+  font-size: 100%;
+}
+a {font-size: large}
+table {margin: auto}
+.hidden { display: none; }
+.unhidden { display: block; }
